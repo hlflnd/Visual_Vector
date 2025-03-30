@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="coordsystem_setup.py" />
     <Compile Include="log_formation.py" />
     <Compile Include="Visual_Vector.py" />
   </ItemGroup>
@@ -28,6 +29,7 @@
     <Folder Include="logo\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Asana-Math.otf" />
     <Content Include="logo\wxyzlogo.ico" />
     <Content Include="logo\wxyzlogo.png" />
   </ItemGroup>
