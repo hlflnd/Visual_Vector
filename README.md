@@ -16,7 +16,7 @@
 
 感谢 **翔翔qaq** 提供宝贵的数学知识。
 
-感谢 **a24300290682a** ____。~~还没明确任务qwq~~
+感谢 **a24300290682a** 设计UI。
 
 ### 其他
 
@@ -41,7 +41,7 @@ This project is co-owned by Hlflnd、机房霸主、翔翔qaq、a24300290682a.
 ~~Thank you,~~ **Hlflnd**, for using Python to write the GUI and for maintaining the project.  
 Thank you, **机房霸主** (Mech Room Lord), for writing the vector class in C++.  
 Thank you, **翔翔qaq** (翔翔qaq), for providing valuable mathematical knowledge.  
-Thank you, **a24300290682a**, for your contribution. ~~Your specific task is still unclear.~~
+Thank you, **a24300290682a**, for designing the UI. 
 
 ### Other Information
 
