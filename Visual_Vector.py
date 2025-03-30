@@ -1,6 +1,6 @@
 #coding=gbk
 from tkinter import *
-import tkinter
+from tkinter.ttk import *
 import numpy as np
 import math
 import sys
