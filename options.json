@@ -1,0 +1,10 @@
+{
+  "KeyMapping": {
+    "CoordinateSystem": {
+      "LeftShift": "<Left>",
+      "RightShift": "<Right>",
+      "UpShift": "<Up>",
+      "DownShift": "<Down>"
+    }
+  }
+}

@@ -21,17 +21,22 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="coordsystem_setup.py" />
-    <Compile Include="log_formation.py" />
+    <Compile Include="py\CoordinateSystem.py" />
+    <Compile Include="py\Logger.py" />
+    <Compile Include="py\Monitor.py" />
+    <Compile Include="py\__init__.py" />
     <Compile Include="Visual_Vector.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="logo\" />
+    <Folder Include="cpp\" />
+    <Folder Include="py\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Asana-Math.otf" />
     <Content Include="logo\wxyzlogo.ico" />
     <Content Include="logo\wxyzlogo.png" />
+    <Content Include="options.json" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
